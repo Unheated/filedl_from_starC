@@ -38,5 +38,5 @@
 
 ## 鸣谢
 
-- @ [wwyqianqian][https://github.com/wwyqianqian/wwyqianqian.github.io] : 提供了完美登录的方法，感激！！！
-- @[ba0zhi][https://github.com/ba0zhi] :让我了解到如何从网页源代码里提取资源，的启蒙人（哲学符号）（撒花
+- @ [wwyqianqian](https://github.com/wwyqianqian/wwyqianqian.github.io) : 提供了完美登录的方法，感激！！！
+- @[ba0zhi](https://github.com/ba0zhi) :让我了解到如何从网页源代码里提取资源，的启蒙人（哲学符号）（撒花
